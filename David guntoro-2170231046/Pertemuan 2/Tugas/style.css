@@ -1,0 +1,16 @@
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+header {
+    background-color:wheat;
+}
+
+a {
+    text-decoration: none;
+    font-size: 48px;
+}

@@ -1,0 +1,15 @@
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+header {
+    background-color:wheat;
+}
+
+a {
+    font-size: 24px;
+}
